@@ -17,3 +17,10 @@
     -forward pass: compute prediction 
     -backward pass: gradients 
     -update weights 
+
+## Course 2: Logistic Regression Model 
+
+Two goals are targeted here: 
+
+- Know how to process to understand a new Dataset 
+- Implement a Logistic Regression model 
